@@ -12,5 +12,4 @@ The matching should cover the **entire** input string (not partial).
 
 |Language|Status|Runtime|Memory|
 |---|---|---|---|
-|python3|Accepted|56ms|13.9MB|
-
+|python3|Accepted|1215ms|13.8MB|
