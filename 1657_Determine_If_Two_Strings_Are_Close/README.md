@@ -18,7 +18,7 @@ Given two strings, `word1` and `word2`, return *`true` if `word1` and `word2` ar
 
 ## Submissions Status
 
-| Language | Status   | Runtime | Memory |
-| -------- | -------- | ------- | ------ |
-| python3  | Accepted | 59ms    | 13.9MB |
+| Language | Status   | Runtime          | Memory        |
+| -------- | -------- | ---------------- | ------------- |
+| python3  | Accepted | 143ms (top 2.8%) | 15MB (top 6%) |
 
