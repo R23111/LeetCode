@@ -1,5 +1,5 @@
 # LeetCode
 
-My [leetcode solutions](leetcode.com)
+My [leetcode solutions](https://leetcode.com)
 
 **Dates are in dd/mm/yy format**
